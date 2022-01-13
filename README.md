@@ -10,7 +10,7 @@
 
 <div align="center"> Hello world! I'm a full-stack web developer who comes molded from background experiences involving time-intensive problem solving, vigilant attention to detail, and constant collaboration.</div> 
 </br>
-<div align="center">I am currently <span style="color: red;">** open to work </span>** and in the job market. Feel free to reach out if you are interested in working together!</div>
+<div align="center">I am currently **open to work** and in the job market. Feel free to reach out if you are interested in working together!</div>
 </br>
 
 ---
