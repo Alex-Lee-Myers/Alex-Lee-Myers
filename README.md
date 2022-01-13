@@ -1,6 +1,6 @@
 # Alex Lee Myers
 ### Full-Stack Web Developer
-[![https://alex-lee-myers.github.io/](https://img.shields.io/badge/Portfolio-Link-orange)](https://alex-lee-myers.github.io/) ![Twitter Follow](https://img.shields.io/twitter/follow/AlexLeeMe?style=social)  ![GitHub followers](https://img.shields.io/github/followers/Alex-Lee-Myers?style=social)
+[![https://alex-lee-myers.github.io/](https://img.shields.io/badge/Portfolio-Link-orange)](https://alex-lee-myers.github.io/) [![Twitter Follow](https://img.shields.io/twitter/follow/AlexLeeMe?style=social)](https://twitter.com/AlexLeeMe)  [![GitHub followers](https://img.shields.io/github/followers/Alex-Lee-Myers?style=social)](https://github.com/Alex-Lee-Myers)
 ---
 <div align="center" ##>  <h2> 🧰 Toolbox </h2> </div>
 
