@@ -8,19 +8,16 @@
 
 ---
 
-
+<div align="center"> Hello world! I'm a full-stack web developer who comes molded from background experiences involving time-intensive problem solving, vigilant attention to detail, and constant collaboration.</div> 
+</br>
+<div align="center">I am currently <span style="color: red;">** open to work </span>** and in the job market. Feel free to reach out if you are interested in working together!</div>
+</br>
 
 ---
 
-
-<div align="center"> Hello world! I'm a full-stack web developer who comes molded from background experiences involving time-intensive problem solving, vigilant attention to detail, and constant collaboration.</div> 
-</hr>
-</hr>
-<div align="center">I am currently <span style="color: red;"> open to work </span> in the job market. Feel free to reach out if you are interested in working together!</div>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lee-Myers&hide=java,html,css,shell&theme=)](https://github.com/anuraghazra/github-readme-stats)
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Lee-Myers&theme=)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lee-Myers&hide=java,html,css,shell&theme=)](https://github.com/anuraghazra/github-readme-stats) [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Lee-Myers&theme=)](https://github.com/anuraghazra/github-readme-stats)
+ 
+---
 
 What's going on with me? Well...
 -  ⚒ Open to work! 
