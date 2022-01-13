@@ -30,4 +30,3 @@ What's going on with me? Well...
 - 👯 I’m looking to collaborate on a team of developers that empower one another.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be in charge of hosting the largest annual Smash Bros. Tournament Series in the state.
--->
