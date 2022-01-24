@@ -1,4 +1,7 @@
 # Alex Lee Myers
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Alex-Lee-Myers+Portfolio!!!)](https://alex-lee-myers.github.io/)
+
 ### Full-Stack Web Developer
 [![https://alex-lee-myers.github.io/](https://img.shields.io/badge/Portfolio-Link-orange)](https://alex-lee-myers.github.io/) [![Twitter Follow](https://img.shields.io/twitter/follow/AlexLeeMe?style=social)](https://twitter.com/AlexLeeMe)  [![GitHub followers](https://img.shields.io/github/followers/Alex-Lee-Myers?style=social)](https://github.com/Alex-Lee-Myers)
 ---
